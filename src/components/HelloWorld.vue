@@ -3,6 +3,7 @@
     <v-row class="text-center">
       
       <v-col>
+        <h2>JOSE GUILLERMO OSORIO MENDOZA</h2>
         <h1 class="display-2 font-weight-bold mb-3">
           Bienvenido!
         </h1>
